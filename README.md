@@ -1,8 +1,8 @@
 # Aggregator-based-RPL
 
-1. Generate Logs from Any wireless sensor network or Contiki NG by running cooja simulation for rpl.
+1. Generate Trace from Any wireless sensor network or log file from Contiki NG by running cooja simulation for rpl.
 
-2. Pass the log in filter.py --> it will generate trace of the simulation.
+2. Pass the log in filter.py --> it will clean the trace.
 
 3. Now set the input variable to trace file name in main.py
 
